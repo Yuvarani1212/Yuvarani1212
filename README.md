@@ -1,4 +1,4 @@
-![MasterHead](https://storage.googleapis.com/ms-webscorp-pro-makingscience-pro-static/1/2020/12/digital-trend.jpg)
+![MasterHead](https://blog.insidecomunicazione.it/hubfs/shutterstock_1689309619-compressed.jpg#keepProtocol)
 <h1 align="center">Hi 👋, I'm Yuvarani S</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
