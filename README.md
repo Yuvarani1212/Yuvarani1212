@@ -1,4 +1,4 @@
-![MasterHead](https://3.bp.blogspot.com/--0gm5VURsGM/T75dh7cnu5I/AAAAAAAAAVE/PGOtJxp2G7k/s1600/software-engineering-and-development-banner.jpg)
+![MasterHead](https://www.nativery.com/blog/wp-content/uploads/2021/01/copertina.jpg)
 <h1 align="center">Hi 👋, I'm Yuvarani S</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
